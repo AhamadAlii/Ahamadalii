@@ -20,7 +20,7 @@ I'm a passionate student and aspiring software developer, actively seeking oppor
 - 🎯 Goals: Land a role as a software engineer and keep learning every day
 
 ## 🛠️ Projects
-- [HealthHub](https://github.com/AhamadAlii/code_for_change_1): A project focused on healthcare solutions.
+- [HealthHub](https://code-for-change-nine.vercel.app/): A project focused on healthcare solutions.
 
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ahamad-ali/)
