@@ -24,7 +24,7 @@ I'm a passionate student and aspiring software developer, actively seeking oppor
 
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ahamad-ali/)
-- Email: (Add your email here if you want)
+- Email: ahamadwork2426@gmail.com
 
 ## ⚡ Fun Facts
 - 🏍️ Love bike riding
